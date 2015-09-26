@@ -24,7 +24,6 @@ install the necessary dependencies:
 http://help.exercism.io/getting-started-with-javascript.html
 
 ## Making the Test Suite Pass
-
 Execute the tests with:
 
 ```bash
